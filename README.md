@@ -2,7 +2,7 @@
 
 Projeto Tec Blog tem por finalidade praticar os conhecimentos aprendidos no curso - Desenvolvimento Web Completo 2021 - 20 cursos + 20 projetos  
 
-#### Tecnologias utilizadas HTML5 CSS3 BOOTSTRAP
+#### Tecnologias utilizadas HTML5 CSS3
 
 
 
