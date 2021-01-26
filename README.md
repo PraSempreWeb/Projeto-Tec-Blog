@@ -28,7 +28,7 @@ Projeto Tec Blog tem por finalidade praticar os conhecimentos aprendidos no curs
 
 
 
-Desenvolvido por: ```Cristiano Bonifácio ```   
+Desenvolvido por: [```Cristiano Bonifácio ```](https://www.linkedin.com/in/prasempreweb/)     
 
 Professor: ```Jamilton Damasceno ```   
 
