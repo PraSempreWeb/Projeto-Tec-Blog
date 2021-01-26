@@ -6,9 +6,9 @@ Projeto Tec Blog tem por finalidade praticar os conhecimentos aprendidos no curs
 
 
 
-HTML5 | CSS3 | BOOTSTRAP
-------|----- | ---------
-<img src="https://user-images.githubusercontent.com/77255300/105902508-8228ab00-5ffd-11eb-9af7-d2e0dd4f22ee.png" width=120> | <img src="https://user-images.githubusercontent.com/77255300/105901769-95874680-5ffc-11eb-84c0-8076abf1f72f.png" width=100> | <img src="https://user-images.githubusercontent.com/77255300/105902961-0f6bff80-5ffe-11eb-937e-072d2a4c9ee7.png" width=140>  |<img src="https://user-images.githubusercontent.com/77255300/105891389-5b637800-5fef-11eb-994c-f43a659ce434.png" width=500> |
+HTML5 | CSS3 | 
+------|----- |
+<img src="https://user-images.githubusercontent.com/77255300/105902508-8228ab00-5ffd-11eb-9af7-d2e0dd4f22ee.png" width=120> | <img src="https://user-images.githubusercontent.com/77255300/105901769-95874680-5ffc-11eb-84c0-8076abf1f72f.png" width=100> | 
 <img src="https://user-images.githubusercontent.com/77255300/105891389-5b637800-5fef-11eb-994c-f43a659ce434.png" width=500>
 
 
