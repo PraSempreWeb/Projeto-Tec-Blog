@@ -1,0 +1,118 @@
+/*Limpando as formatações padrões*/
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-size: 1em;
+	font-family: "Trebuche MS", Helvetica, sans-serif;
+	background: 
+}
+
+/*
+***LAYOUT*************
+*/
+#area-cabecalho{
+	background-color: #f7b600;
+	padding: 15px;
+	text-align: center;
+}
+#area-logo, #area-menu{
+	padding: 10px;
+}
+#area-principal{
+	width: 920px;
+	margin: auto;
+	padding: 15px;
+
+}
+/*
+	AREA DE POSTAGENS
+*/
+#postagens{
+	width: 660px;
+	float: left;
+}
+
+.area-postagem{
+	padding: 20px;
+	margin-bottom: 20px;
+	background: white;
+}
+#area-lateral{
+	width: 240px;
+	float: right;
+}
+
+.conteudo-lateral{
+	background: white;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+
+#rodape{
+	background: #ccc;
+	clear: both;
+	text-align: center;
+	padding: 15px;
+}
+
+/*
+FORMATAÇÕES GERAIS*************
+*/
+h1{
+	color: #4e4e4e;
+	font-size: 2.5em;
+}
+h2{
+	color: #f7b600;
+}
+h3{
+	color: #565656;
+	background: #ccc;
+	padding: 5px;
+}
+.branco{
+	color: white;
+}
+.data-postagem{
+	font-size: 0.8em;
+	border-bottom: 2px solid #f4f4f4;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	display: block;
+}
+
+.postagem-lateral{
+	font-size: 0.8em;
+	padding: 5px;
+}
+/*
+FORMATAÇÕES DE LINKS*************
+*/
+a{
+	text-decoration: none;
+	color: #f7b600;
+}
+
+}
+ a:link, a:visited{
+	color: #f7b600;
+}
+ a:hover{
+	text-decoration: underline;
+	color: #f7b600;
+}
+
+#area-cabecalho a:link, #area-cabecalho a:visited{
+	color: #fff;
+	padding: 8px 12px;
+	text-decoration: none;
+}
+#area-cabecalho a:hover{
+	color: #f7b600;
+	background: #fff;
+	text-decoration: none;
+}
+
